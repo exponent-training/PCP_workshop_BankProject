@@ -1,0 +1,3 @@
+git config --global user.name "exponent-training"
+git config --global user.email "onlinejavaclasses2022@gmail.com"
+git config --global user.password ""
